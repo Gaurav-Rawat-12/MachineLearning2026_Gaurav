@@ -1,0 +1,6 @@
+Machine Learning 2026 Notes
+Author: Gaurav
+
+This repository contains datasets, notebooks,
+and practice code for ML.
+
